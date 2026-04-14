@@ -4,6 +4,8 @@ AI-powered prior authorization and appeals automation for healthcare providers.
 
 Built at a hackathon, April 10–13 2026.
 
+**Live:** https://authflow-web.vercel.app/
+
 ---
 
 ## What it does
