@@ -1,8 +1,8 @@
 # Authflow
 
-AI-powered prior authorization and appeals automation for healthcare providers.
+AI-powered prior authorization and appeals automation for healthcare providers. 
 
-Built at a hackathon, April 10–13 2026.
+Won the 3rd prize at the chicago startup weekend, April 10–12 2026.
 
 **Live:** https://authflow-web.vercel.app/
 
